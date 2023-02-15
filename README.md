@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sutrisno
-- More information about me : https://sutrisno.showwcase.com/
 - 👀 I’m interested in Programming especially in Backend Developer
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on the project with team
